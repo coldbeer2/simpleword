@@ -1,0 +1,2 @@
+# simpleword
+a wordpress theme
